@@ -1,6 +1,6 @@
 # Automated Gleason Grading of Whole Slide Images
 
-This repository contains the work done as a part of the R&D Course at [**Me**dical **D**eep Learning and **A**I **L**ab](https://www.ee.iitb.ac.in/web/research/labs/medal{:target="_blank"} at EE Department, IIT Bombay. I have done this project in collaboration with [Parth Dodhia](https://pdudeia.github.io/) and [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-705b28217/?originalSubdomain=in) under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/). You can find the [report](./RND_report.pdf) and [presentation](./presentation.pdf) respectively.  
+This repository contains the work done as a part of the R&D Course at [**Me**dical **D**eep Learning and **A**I **L**ab](https://www.ee.iitb.ac.in/web/research/labs/medal){:target="_blank"} at EE Department, IIT Bombay. I have done this project in collaboration with [Parth Dodhia](https://pdudeia.github.io/) and [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-705b28217/?originalSubdomain=in) under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/). You can find the [report](./RND_report.pdf) and [presentation](./presentation.pdf) respectively.  
 ![logo.png](./gleason.png)
 
 ---
